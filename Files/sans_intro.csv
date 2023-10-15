@@ -1,40 +1,126 @@
-0,SansAnimation,,,,,,,,
-0,SansHead,ClosedEyes,,,,,,,
-0,SansText,ready?,,,,,,,
-0,BlackScreen,1,,,,,,,
-0,Sound,Flash,,,,,,,
-0.06666,BlackScreen,0,,,,,,,
-0,Sound,Flash,,,,,,,
-0,CombatZoneResizeInstant,239,226,404,391,,,,
-0,HeartTeleport,320,304,,,,,,
-0,HeartMode,0,,,,,,,
-0,SansBody,HandDown,,,,,,,
-0,SansHead,BlueEye,,,,,,,
-0,Sound,GasterBlaster,1.4,,,,,,
-0.26666,SansSlam,1,,,,,,,
-0.5,SansBody,HandUp,,,,,,,
-0,SansHead,NoEyes,,,,,,,
-0,BoneStab,1,54,0.16666,1,,,,
-0.7,HeartMode,0,,,,,,,
-0,SansBody,HandRight,,,,,,,
-0,Sound,Ding,,,,,,,
-0.4,Sound,GasterBlaster,1.4,,,,,,
-0.4,SineBones,20,-24,360,25,,,,
-1.1,SansAnimation,,,,,,,,
-0,GasterBlaster,1,0,0,189,246,0,0.333,0.26666
-0,GasterBlaster,1,0,0,259,166,90,0.333,0.26666
-0,GasterBlaster,1,640,480,449,366,180,0.333,0.26666
-0,GasterBlaster,1,640,480,379,446,270,0.333,0.26666
-0.9,GasterBlaster,1,0,0,189,176,45,0.333,0.26666
-0,GasterBlaster,1,640,0,449,176,135,0.333,0.26666
-0,GasterBlaster,1,640,480,449,436,225,0.333,0.26666
-0,GasterBlaster,1,0,480,189,436,315,0.333,0.26666
-0.9,GasterBlaster,1,0,0,189,246,0,0.333,0.26666
-0,GasterBlaster,1,0,0,259,166,90,0.333,0.26666
-0,GasterBlaster,1,640,480,449,366,180,0.333,0.26666
-0,GasterBlaster,1,640,480,379,446,270,0.333,0.26666
-0.7,GasterBlaster,2,0,240,139,306,0,0.666,0.5
-0,GasterBlaster,2,640,240,499,306,180,0.666,0.5
-3,SansHead,Default,,,,,,,
-0,SansText,here we go.,,,,,,,
+0,Sound,mus_zz_megalovania,0,,,,,
+0,SansText,hey kid.,,
+0,SansText,do you love lean?,,
+0,Sound,Flash,,
+0,BlackScreen,1,,,,,,
+0.3,Sound,Flash,,
+0,BlackScreen,0,,,,,,
+0,HeartTeleport,300,300,,,,,,
+0,HeartMode,1,,,, 
+0,CombatZoneResizeInstant,250,0,400,400,,,,
+0,SansSlam,3,,
+0,Sound,Ding,,
+0.3,SansBody,HandUp,, 
+0,BoneStab,3,30,0.5,0.3,,,
+0,BoneStab,2,60,0.5,0.3,,,
+0,BoneStab,0,60,0.5,0.3,,,
+1,SansSlam,1,,
+0,Sound,Ding,,
+0,SansBody,HandDown,,
+0.6,CombatZoneResize,150,300,500,400,,,,
+0.4,SansSlam,3,,
+
+0.01,BoneV,150,300,100, 0, 800,1,,
+0.01,BoneV,150,300,100, 0, 800,1,,
+0.01,BoneV,150,300,100, 0, 800,1,,
+0.01,BoneV,150,300,100, 0, 800,1,,
+0.01,BoneV,150,300,100, 0, 800,1,,
+0.01,BoneV,150,300,100, 0, 800,1,,
+0.01,BoneV,150,300,100, 0, 800,1,,
+0.01,BoneV,150,300,100, 0, 800,1,,
+0.01,BoneV,150,300,100, 0, 800,1,,
+
+0.008,BoneV,150,300,10, 0, 600,0,,
+0.1,BoneV,150,300,20, 0, 600,0,,
+0.1,BoneV,150,300,30, 0, 600,0,,
+0.1,BoneV,150,300,40, 0, 600,0,,
+0.1,BoneV,150,300,50, 0, 600,0,,
+0.1,BoneV,150,300,50, 0, 600,0,,
+0.1,BoneV,150,300,40, 0, 600,0,,
+0.1,BoneV,150,300,30, 0, 600,0,,
+0.1,BoneV,150,300,20, 0, 600,0,,
+0.1,BoneV,150,300,10, 0, 600,0,,
+0,SansSlam,0,
+0,SansBody,HandRight,,
+0.01,BoneV,150,300,100, 0, 800,2,,
+0.01,BoneV,150,300,100, 0, 800,2,,
+0.01,BoneV,150,300,100, 0, 800,2,,
+0.01,BoneV,150,300,100, 0, 800,2,,
+0.01,BoneV,150,300,100, 0, 800,2,,
+0.01,BoneV,150,300,100, 0, 800,2,,
+0.01,BoneV,150,300,100, 0, 800,2,,
+0.01,BoneV,150,300,100, 0, 800,2,,
+0.01,BoneV,150,300,100, 0, 800,2,,
+
+0,BoneH,460,300,40, 1, 100,0,,
+0.75,BoneH,468,300,32, 1, 100,0,,
+0,BoneH,150,300,295, 1, 100,0,,
+0.1,BoneH,465,300,35, 1, 100,0,,
+0,BoneH,150,300,295, 1, 100,0,,
+0.1,BoneH,468,300,32, 1, 100,0,,
+0,BoneH,150,300,295, 1, 100,0,,
+0.75,BoneH,468,300,32, 1, 100,0,,
+0,BoneH,150,300,295, 1, 100,0,,
+0.1,BoneH,465,300,35, 1, 100,0,,
+0,BoneH,150,300,295, 1, 100,0,,
+0.1,BoneH,468,300,32, 1, 100,0,,
+0,BoneH,150,300,295, 1, 100,0,,
+0.75,BoneH,468,300,32, 1, 100,0,,
+0,BoneH,150,300,295, 1, 100,0,,
+0.1,BoneH,465,300,35, 1, 100,0,,
+0,BoneH,150,300,295, 1, 100,0,,
+0.1,BoneH,468,300,32, 1, 100,0,,
+0,BoneH,150,300,295, 1, 100,0,,
+0.75,BoneH,468,300,32, 1, 100,0,,
+0,BoneH,150,300,295, 1, 100,0,,
+0.1,BoneH,465,300,35, 1, 100,0,,
+0,BoneH,150,300,295, 1, 100,0,,
+0.1,BoneH,468,300,32, 1, 100,0,,
+0,BoneH,150,300,295, 1, 100,0,,
+0.75,BoneH,468,300,32, 1, 100,0,,
+0,BoneH,150,300,295, 1, 100,0,,
+0.1,BoneH,465,300,35, 1, 100,0,,
+0,BoneH,150,300,295, 1, 100,0,,
+0.1,BoneH,468,300,32, 1, 100,0,,
+0,BoneH,150,300,295, 1, 100,0,,
+
+0.5,HeartMode,0,,,,
+0,Sound,Ding,,
+0,CombatZoneResize,150,200,500,400,,,,
+0,GetHeartPos,HeartX,HeartY,,,,,,
+0.4,GasterBlaster,0,300,0,530,$HeartY,180,0.1,0.1
+0,GetHeartPos,HeartX,HeartY,,,,,,
+0.4,GasterBlaster,0,300,0,530,$HeartY,180,0.1,0.1
+0,GetHeartPos,HeartX,HeartY,,,,,,
+0.4,GasterBlaster,0,300,0,530,$HeartY,180,0.1,0.1
+0,GetHeartPos,HeartX,HeartY,,,,,,
+0.4,GasterBlaster,0,300,0,530,$HeartY,180,0.1,0.1
+0,GetHeartPos,HeartX,HeartY,,,,,,
+0.4,GasterBlaster,0,300,0,530,$HeartY,180,0.1,0.1
+0,GetHeartPos,HeartX,HeartY,,,,,,
+0.4,GasterBlaster,0,300,0,530,$HeartY,180,0.1,0.1
+0,GetHeartPos,HeartX,HeartY,,,,,,
+0.4,GasterBlaster,0,300,0,530,$HeartY,180,0.1,0.1
+0,GetHeartPos,HeartX,HeartY,,,,,,
+0.4,GasterBlaster,0,300,0,530,$HeartY,180,0.1,0.1
+0,GetHeartPos,HeartX,HeartY,,,,,,
+0.4,GasterBlaster,0,300,0,530,$HeartY,180,0.1,0.1
+0,GetHeartPos,HeartX,HeartY,,,,,,
+0.4,GasterBlaster,0,300,0,530,$HeartY,180,0.1,0.1
+0,GetHeartPos,HeartX,HeartY,,,,,,
+0.4,GasterBlaster,0,300,0,530,$HeartY,180,0.1,0.1
+0,GetHeartPos,HeartX,HeartY,,,,,,
+0.4,GasterBlaster,0,300,0,530,$HeartY,180,0.1,0.1
+
+1,CombatZoneResize,270,270,360,360,,,,
+0,HeartTeleport,300,300,,,,,,
+0,SansTorso,Default,,
+0,SansText,well guess what?,,
+0,Sanshead,NoEyes,,
+0,SansText,i do.,,,,,,,
+0,Sound,mus_zz_megalovania,1,,,,,
+0,SansAnimation,,,,
 0,EndAttack,,,,,,,,
+
+
+

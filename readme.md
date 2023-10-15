@@ -6,5 +6,5 @@ The Sans fight, but he drank too much lean.
 i just added this cuz the og had it
 
 ------------------------------------------
-CONTACTS:
+# CONTACTS:
 Discord: anotheraze
